@@ -111,3 +111,7 @@ The dataset is cleaned, transformed, and ready for further analysis and machine 
 ## Conclusion
 
 Advanced EDA and Feature Engineering were successfully performed on the e-commerce dataset. Missing values were handled, outliers were detected and treated using the IQR method, and four meaningful features were engineered. The final dataset is cleaner, more informative, and suitable for future predictive analytics and machine learning tasks.
+## Project Screenshots
+
+Outlier Detection & Treatment
+Feature Engineering
